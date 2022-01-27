@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gpt3Demo/static/css/main.d82de98f.css",
+    "main.js": "/gpt3Demo/static/js/main.f955769d.js",
+    "static/media/ai.png": "/gpt3Demo/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/people.png": "/gpt3Demo/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gpt3Demo/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/gpt3Demo/index.html",
+    "main.d82de98f.css.map": "/gpt3Demo/static/css/main.d82de98f.css.map",
+    "main.f955769d.js.map": "/gpt3Demo/static/js/main.f955769d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d82de98f.css",
+    "static/js/main.f955769d.js"
+  ]
+}
